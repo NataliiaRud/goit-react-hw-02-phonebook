@@ -1,6 +1,6 @@
 import { Formik } from 'formik';
 import { nanoid } from 'nanoid';
-import * as Yup from 'yup';
+
 import React from 'react';
 import PropTypes from 'prop-types';
 
